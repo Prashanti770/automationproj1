@@ -1,0 +1,100 @@
+04/26/2022 11:58:27 AM: INFO: *************** Test_001_Login *****************
+04/26/2022 11:58:27 AM: INFO: ****Started Home page title test ****
+04/26/2022 11:58:27 AM: INFO: ****Opening URL****
+04/26/2022 11:58:31 AM: INFO: **** Home page title test passed ****
+04/27/2022 02:07:16 PM: INFO: *************** Test_001_Login *****************
+04/27/2022 02:07:16 PM: INFO: ****Started Home page title test ****
+04/27/2022 02:07:16 PM: INFO: ****Opening URL****
+04/27/2022 02:07:21 PM: INFO: **** Home page title test passed ****
+04/27/2022 02:14:04 PM: INFO: *************** Test_001_Login *****************
+04/27/2022 02:14:04 PM: INFO: ****Started Home page title test ****
+04/27/2022 02:14:04 PM: INFO: ****Opening URL****
+04/27/2022 02:14:10 PM: INFO: **** Home page title test passed ****
+04/27/2022 02:15:09 PM: INFO: *************** Test_001_Login *****************
+04/27/2022 02:15:09 PM: INFO: ****Started Home page title test ****
+04/27/2022 02:15:09 PM: INFO: ****Opening URL****
+04/27/2022 02:15:13 PM: INFO: **** Home page title test passed ****
+04/27/2022 02:17:27 PM: INFO: *************** Test_001_Login *****************
+04/27/2022 02:17:27 PM: INFO: ****Started Home page title test ****
+04/27/2022 02:17:27 PM: INFO: ****Opening URL****
+04/27/2022 02:17:40 PM: INFO: **** Home page title test passed ****
+04/27/2022 02:19:22 PM: INFO: *************** Test_001_Login *****************
+04/27/2022 02:19:22 PM: INFO: ****Started Home page title test ****
+04/27/2022 02:19:22 PM: INFO: ****Opening URL****
+04/27/2022 02:19:25 PM: INFO: **** Home page title test passed ****
+04/27/2022 02:20:40 PM: INFO: *************** Test_001_Login *****************
+04/27/2022 02:20:40 PM: INFO: ****Started Home page title test ****
+04/27/2022 02:20:40 PM: INFO: ****Opening URL****
+04/27/2022 02:20:45 PM: INFO: **** Home page title test passed ****
+05/02/2022 03:01:27 PM: INFO: *************** Test_001_Login *****************
+05/02/2022 03:01:27 PM: INFO: ****Started Home page title test ****
+05/02/2022 03:01:27 PM: INFO: ****Opening URL****
+05/02/2022 03:01:46 PM: INFO: **** Home page title test passed ****
+05/02/2022 03:03:34 PM: INFO: *************** Test_001_Login *****************
+05/02/2022 03:03:34 PM: INFO: ****Started Home page title test ****
+05/02/2022 03:03:34 PM: INFO: ****Opening URL****
+05/02/2022 03:03:38 PM: INFO: **** Home page title test passed ****
+05/03/2022 01:30:14 PM: INFO: *************** Test_001_Login *****************
+05/03/2022 01:30:14 PM: INFO: ****Started Home page title test ****
+05/03/2022 01:30:14 PM: INFO: ****Opening URL****
+05/03/2022 01:30:18 PM: INFO: **** Home page title test passed ****
+05/06/2022 10:09:47 AM: INFO: *************** Test_001_Login *****************
+05/06/2022 10:09:47 AM: INFO: ****Started Home page title test ****
+05/06/2022 10:09:47 AM: INFO: ****Opening URL****
+05/06/2022 10:09:51 AM: INFO: **** Home page title test passed ****
+05/06/2022 10:12:19 AM: INFO: *************** Test_001_Login *****************
+05/06/2022 10:12:19 AM: INFO: ****Started Home page title test ****
+05/06/2022 10:12:19 AM: INFO: ****Opening URL****
+05/06/2022 10:12:24 AM: INFO: **** Home page title test passed ****
+05/06/2022 10:13:07 AM: INFO: *************** Test_001_Login *****************
+05/06/2022 10:13:07 AM: INFO: ****Started Home page title test ****
+05/06/2022 10:13:07 AM: INFO: ****Opening URL****
+05/06/2022 10:13:10 AM: INFO: **** Home page title test passed ****
+05/06/2022 10:14:27 AM: INFO: *************** Test_001_Login *****************
+05/06/2022 10:14:27 AM: INFO: ****Started Home page title test ****
+05/06/2022 10:14:27 AM: INFO: ****Opening URL****
+05/06/2022 10:14:31 AM: INFO: **** Home page title test passed ****
+05/06/2022 10:15:53 AM: INFO: *************** Test_001_Login *****************
+05/06/2022 10:15:53 AM: INFO: ****Started Home page title test ****
+05/06/2022 10:15:53 AM: INFO: ****Opening URL****
+05/06/2022 10:15:57 AM: INFO: **** Home page title test passed ****
+05/06/2022 10:30:00 AM: INFO: *************** Test_001_Login *****************
+05/06/2022 10:30:00 AM: INFO: ****Started Home page title test ****
+05/06/2022 10:30:00 AM: INFO: ****Opening URL****
+05/06/2022 10:30:05 AM: INFO: **** Home page title test passed ****
+05/06/2022 10:33:14 AM: INFO: *************** Test_001_Login *****************
+05/06/2022 10:33:14 AM: INFO: ****Started Home page title test ****
+05/06/2022 10:33:14 AM: INFO: ****Opening URL****
+05/06/2022 10:33:33 AM: INFO: **** Home page title test passed ****
+05/06/2022 10:39:04 AM: INFO: *************** Test_001_Login *****************
+05/06/2022 10:39:04 AM: INFO: ****Started Home page title test ****
+05/06/2022 10:39:04 AM: INFO: ****Opening URL****
+05/06/2022 10:39:09 AM: INFO: **** Home page title test passed ****
+05/06/2022 10:41:23 AM: INFO: *************** Test_001_Login *****************
+05/06/2022 10:41:23 AM: INFO: ****Started Home page title test ****
+05/06/2022 10:41:23 AM: INFO: ****Opening URL****
+05/06/2022 10:41:29 AM: INFO: **** Home page title test passed ****
+05/06/2022 10:42:22 AM: INFO: *************** Test_001_Login *****************
+05/06/2022 10:42:22 AM: INFO: ****Started Home page title test ****
+05/06/2022 10:42:22 AM: INFO: ****Opening URL****
+05/06/2022 10:42:25 AM: INFO: **** Home page title test passed ****
+05/06/2022 10:45:18 AM: INFO: *************** Test_001_Login *****************
+05/06/2022 10:45:18 AM: INFO: ****Started Home page title test ****
+05/06/2022 10:45:18 AM: INFO: ****Opening URL****
+05/06/2022 10:45:23 AM: INFO: **** Home page title test passed ****
+05/06/2022 10:46:26 AM: INFO: *************** Test_001_Login *****************
+05/06/2022 10:46:26 AM: INFO: ****Started Home page title test ****
+05/06/2022 10:46:26 AM: INFO: ****Opening URL****
+05/06/2022 10:46:33 AM: INFO: **** Home page title test passed ****
+05/09/2022 09:34:48 AM: INFO: *************** Test_001_Login *****************
+05/09/2022 09:34:49 AM: INFO: ****Started Home page title test ****
+05/09/2022 09:34:49 AM: INFO: ****Opening URL****
+05/09/2022 09:34:52 AM: INFO: **** Home page title test passed ****
+05/09/2022 09:43:45 AM: INFO: *************** Test_001_Login *****************
+05/09/2022 09:43:45 AM: INFO: ****Started Home page title test ****
+05/09/2022 09:43:45 AM: INFO: ****Opening URL****
+05/09/2022 09:43:49 AM: INFO: **** Home page title test passed ****
+05/09/2022 09:44:23 AM: INFO: *************** Test_001_Login *****************
+05/09/2022 09:44:23 AM: INFO: ****Started Home page title test ****
+05/09/2022 09:44:23 AM: INFO: ****Opening URL****
+05/09/2022 09:44:25 AM: INFO: **** Home page title test passed ****
